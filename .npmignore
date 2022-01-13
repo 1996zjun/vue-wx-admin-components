@@ -1,0 +1,21 @@
+.DS_Store
+node_modules/
+dist/
+src/
+public/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+vue.config.js
+babel.config.js
+*.html
+*.map
+
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
